@@ -1,2 +1,2 @@
-# DiskSpaceApp
+# DiskSpaceTool
 Simple DiskSpace tool 
